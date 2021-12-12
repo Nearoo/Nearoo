@@ -1,4 +1,5 @@
-### Hi there 👋
+
+![Nearoo's Github Stats](https://github-readme-stats.vercel.app/api?username=nearoo&count_private=true&theme=dark)
 
 <!--
 **Nearoo/Nearoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
